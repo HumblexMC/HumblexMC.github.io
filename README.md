@@ -1,2 +1,2 @@
 Humblex MC Server Website
-IP: Coming Soon
+IP - Coming Soon
